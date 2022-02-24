@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebscrapingTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebscrapingTestApplication.class, args);
+		//SpringApplication.run(WebscrapingTestApplication.class, args);
 		new ScrapingConfiguration();
 	}
 
