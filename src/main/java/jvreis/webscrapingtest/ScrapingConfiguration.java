@@ -51,6 +51,7 @@ public class ScrapingConfiguration {
 					ano.format(calendar.getTime()));// chamando função para formatar link [função getTime pega a data
 													// gerada]
 			Scrap.search(calendar, link, writer);
+			calendar.add(GregorianCalendar.DATE, -1);//decrementando da data
 		}
 	}
 
