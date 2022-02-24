@@ -23,12 +23,7 @@ Site: https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=23%2F02%2F2022&enviaBus
 obs.: No caso dessa tabela, o [td] do 2º[tr] possui 1{div} com 1{ul}, onde 
 a {ul} possui 5{li}.
 Na qual as informações estão na 3ª{li} e na 5ª{li}.
-----------------------
-Zona está nas h1
-[class]: tit-bairros
-
-
-
+-----------------------------------------
 2º[tr] contem informações como hora de início, hora final e localidade
 -> 1º[td] do 2º[tr] 
 [div class]: ponto-de-alagamento
@@ -38,4 +33,7 @@ Zona está nas h1
 
 *informações sentido e referência-> 5ª{li}
 [li class]: arial-descr-alag
+-----------------------------------------
+Zona está nas h1
+[class]: tit-bairros
  
