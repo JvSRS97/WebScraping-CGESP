@@ -9,6 +9,8 @@ import org.jsoup.nodes.Document;//importado ao criar variável "documento"
 import org.jsoup.nodes.Element;//importado ao criar variável "elemento"
 import org.jsoup.select.Elements;
 
+//Obs.: Comando Alt+Shift+s -> "Generate Getters and Setters" gera automaticamente as funções 
+//get e set para cada variável
 public class Scrap {// classe que contém os dados HTML
 	static String texto = " ";
 	// função para buscar no site. Cria uma cópia HTML da URL e buscará elementos pela classe dada
