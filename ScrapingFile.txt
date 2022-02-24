@@ -1,0 +1,1 @@
+Zona	Bairro	Rua	Hora-Inicial	Hora-Final
