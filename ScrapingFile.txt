@@ -1,300 +1,201 @@
- 
+## By JvReis
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=23%2F02%2F2022&enviaBusca=Buscar
 Data 23/02/2022 --> Bairro: Sé; Descrição: De 15:12 a 16:36 PÇA DA BANDEIRA
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=23%2F02%2F2022&enviaBusca=Buscar
 Data 23/02/2022 --> Bairro: Pinheiros; Descrição: De 15:35 a 18:38 R BRIG HAROLDO VELOSO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=23%2F02%2F2022&enviaBusca=Buscar
 Data 23/02/2022 --> Bairro: Itaquera; Descrição: De 15:57 a 16:46 R DR AURELIANO BARREIROS
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=23%2F02%2F2022&enviaBusca=Buscar
 Data 23/02/2022 --> Bairro: Penha; Descrição: De 16:08 a 16:19 R DR LUIZ AYRES De 16:11 a 16:30 AV CD.DE FRONTIN
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=22%2F02%2F2022&enviaBusca=Buscar
 Data 22/02/2022 --> Bairro: Jaçanã/ Tremembé; Descrição: De 16:30 a 17:33 AV USHIKICHI KAMIYA
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=17%2F02%2F2022&enviaBusca=Buscar
 Data 17/02/2022 --> Bairro: Mooca; Descrição: De 15:41 a 16:02 AV ALCANTARA MACHADO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=17%2F02%2F2022&enviaBusca=Buscar
 Data 17/02/2022 --> Bairro: Vila Prudente; Descrição: De 15:58 a 16:30 AV PROF LUIZ IGNACIO ANHAIA MELLO De 15:58 a 16:19 R VISC.DE GOIANA
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=07%2F02%2F2022&enviaBusca=Buscar
 Data 07/02/2022 --> Bairro: Itaquera; Descrição: De 09:44 a 14:41 AV ARICANDUVA
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=07%2F02%2F2022&enviaBusca=Buscar
 Data 07/02/2022 --> Bairro: Penha; Descrição: De 09:06 a 09:45 R DR LUIZ AYRES De 09:39 a 10:30 AV CD.DE FRONTIN
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=07%2F02%2F2022&enviaBusca=Buscar
 Data 07/02/2022 --> Bairro: Santo Amaro; Descrição: De 08:34 a 12:26 AV SANTO AMARO De 08:38 a 12:41 AV DAS NACOES UNIDAS De 09:25 a 12:36 MARGINAL PINHEIROS De 09:52 a 12:36 AV DAS NACOES UNIDAS De 10:40 a 18:52 R MIGUEL YUNES
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=03%2F02%2F2022&enviaBusca=Buscar
 Data 03/02/2022 --> Bairro: São Miguel Paulista; Descrição: De 14:41 a 15:26 R DR ASSIS RIBEIRO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=03%2F02%2F2022&enviaBusca=Buscar
 Data 03/02/2022 --> Bairro: Santo Amaro; Descrição: De 07:31 a 10:16 R MIGUEL YUNES
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=02%2F02%2F2022&enviaBusca=Buscar
 Data 02/02/2022 --> Bairro: Sé; Descrição: De 06:27 a 10:11 AV MERCURIO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=02%2F02%2F2022&enviaBusca=Buscar
 Data 02/02/2022 --> Bairro: Butantã; Descrição: De 07:33 a 10:02 AV MIN LAUDO FERREIRA DE CAMARGO De 11:01 a 11:06 AV MIN LAUDO FERREIRA DE CAMARGO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=02%2F02%2F2022&enviaBusca=Buscar
 Data 02/02/2022 --> Bairro: São Miguel Paulista; Descrição: De 15:42 a 18:40 AV PIRES DO RIO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=02%2F02%2F2022&enviaBusca=Buscar
 Data 02/02/2022 --> Bairro: Parelheiros; Descrição: De 15:44 a 17:52 ES ECOTURISTICA DE PARELHEIROS De 16:32 a 17:52 ES ECOTURISTICA DE PARELHEIROS
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=02%2F02%2F2022&enviaBusca=Buscar
 Data 02/02/2022 --> Bairro: Santo Amaro; Descrição: De 15:03 a 15:37 R MIGUEL YUNES
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=02%2F02%2F2022&enviaBusca=Buscar
 Data 02/02/2022 --> Bairro: Vila Mariana; Descrição: De 16:31 a 16:39 AV PROF ASCENDINO REIS
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=01%2F02%2F2022&enviaBusca=Buscar
 Data 01/02/2022 --> Bairro: Perus; Descrição: De 18:10 a 18:38 PC INACIO DIAS
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=01%2F02%2F2022&enviaBusca=Buscar
 Data 01/02/2022 --> Bairro: Sé; Descrição: De 16:34 a 19:00 AV RIO BRANCO De 16:40 a 16:48 AV RIO BRANCO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=01%2F02%2F2022&enviaBusca=Buscar
 Data 01/02/2022 --> Bairro: Vila Mariana; Descrição: De 16:31 a 17:01 AV VINTE E TRES DE MAIO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=31%2F01%2F2022&enviaBusca=Buscar
 Data 31/01/2022 --> Bairro: Sé; Descrição: De 06:21 a 06:52 AV MERCURIO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=31%2F01%2F2022&enviaBusca=Buscar
 Data 31/01/2022 --> Bairro: Lapa; Descrição: De 14:22 a 14:55 AV ENG BILLINGS
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=31%2F01%2F2022&enviaBusca=Buscar
 Data 31/01/2022 --> Bairro: Vila Prudente; Descrição: De 09:44 a 14:39 AV DO ESTADO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=31%2F01%2F2022&enviaBusca=Buscar
 Data 31/01/2022 --> Bairro: Santo Amaro; Descrição: De 08:23 a 11:55 R MIGUEL YUNES
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=30%2F01%2F2022&enviaBusca=Buscar
 Data 30/01/2022 --> Bairro: Sé; Descrição: De 07:50 a 07:59 AV. RIO BRANCO De 09:07 a 13:27 RUA DA FIGUEIRA
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=30%2F01%2F2022&enviaBusca=Buscar
 Data 30/01/2022 --> Bairro: Lapa; Descrição: De 03:49 a 12:28 AV. ENG. BILLINGS De 05:29 a 12:28 AV. ENG. BILLINGS De 06:30 a 12:19 AV. ENG. BILLINGS
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=30%2F01%2F2022&enviaBusca=Buscar
 Data 30/01/2022 --> Bairro: Pinheiros; Descrição: De 06:34 a 07:30 VD. ENG. ANTONIO MOLITERNO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=30%2F01%2F2022&enviaBusca=Buscar
 Data 30/01/2022 --> Bairro: Penha; Descrição: De 07:47 a 07:51 AV. CD. DE FRONTIN De 08:13 a 10:05 AV. CELSO GARCIA
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=30%2F01%2F2022&enviaBusca=Buscar
 Data 30/01/2022 --> Bairro: Santo Amaro; Descrição: De 01:22 a 01:31 MARGINAL PINHEIROS-EXPRESSA
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=29%2F01%2F2022&enviaBusca=Buscar
 Data 29/01/2022 --> Bairro: Sé; Descrição: De 11:51 a 12:10 AV. CRUZEIRO DO SUL De 14:22 a 21:17 AV. MERCURIO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=29%2F01%2F2022&enviaBusca=Buscar
 Data 29/01/2022 --> Bairro: Butantã; Descrição: De 13:47 a 14:37 AV. PROF FRANCISCO MORATO De 14:55 a 17:25 AV. JULES RIMET
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=29%2F01%2F2022&enviaBusca=Buscar
 Data 29/01/2022 --> Bairro: Lapa; Descrição: De 19:36 a 20:27 R GUSTAV WILLI BORGHOFF
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=29%2F01%2F2022&enviaBusca=Buscar
 Data 29/01/2022 --> Bairro: Santo Amaro; Descrição: De 07:19 a 15:31 AV. STO AMARO De 23:18 a 23:27 RUA MIGUEL YUNES
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Perus; Descrição: De 14:02 a 15:31 R FRANCIS DE CASTEUNAL
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Sé; Descrição: De 06:13 a 10:09 AV. MERCURIO De 07:28 a 08:58 R PRES. COSTA PINTO De 08:42 a 08:46 R ROBERTO SIMONSEN De 08:49 a 09:05 R SEN. FEIJÓ De 14:56 a 15:44 AV MERCURIO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Butantã; Descrição: De 06:17 a 06:41 AV PROF. FRANCISCO MORATO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Lapa; Descrição: De 07:29 a 10:09 AV. ENG. BILLINGS De 08:39 a 08:48 AV. ENG. BILLINGS De 16:04 a 00:21 R GUSTAV WILLI BORGHOFF
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Itaquera; Descrição: De 07:14 a 08:25 R ITALINA
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Penha; Descrição: De 13:56 a 15:05 AV CD. DE FRONTIN
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Ipiranga; Descrição: De 02:43 a 05:13 AV PRES. TANCREDO NEVES
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=28%2F01%2F2022&enviaBusca=Buscar
 Data 28/01/2022 --> Bairro: Vila Mariana; Descrição: De 07:11 a 07:27 AV. SANTO AMARO De 07:15 a 07:27 AV. SANTO AMARO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=27%2F01%2F2022&enviaBusca=Buscar
 Data 27/01/2022 --> Bairro: Campo Limpo; Descrição: De 20:07 a 21:49 AV ELLIS MAAS De 22:09 a 21:46 AV ELLIS MAAS
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=26%2F01%2F2022&enviaBusca=Buscar
 Data 26/01/2022 --> Bairro: Itaquera; Descrição: De 17:20 a 19:00 AV JACU PESSEGO De 17:56 a 18:40 R CUNHA PORÃ De 18:36 a 20:24 AV ITAQUERA
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=26%2F01%2F2022&enviaBusca=Buscar
 Data 26/01/2022 --> Bairro: Mooca; Descrição: De 18:54 a 19:20 AV ALCANTARA MACHADO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=26%2F01%2F2022&enviaBusca=Buscar
 Data 26/01/2022 --> Bairro: Penha; Descrição: De 18:05 a 18:47 R PDE VIEGAS DE MENEZES De 18:11 a 18:48 AV DOM HELDER CÂMARA De 18:20 a 18:48 R MARIA LEOCADIA De 18:50 a 18:56 AV CD.DE FRONTIN De 18:52 a 19:15 AV CD.DE FRONTIN De 18:55 a 19:15 AV BERNARDINO BRITO FONSECA DE CARVALHO
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=26%2F01%2F2022&enviaBusca=Buscar
 Data 26/01/2022 --> Bairro: Vila Prudente; Descrição: De 18:27 a 18:48 AV PROF LUIZ IGNACIO ANHAIA MELLO De 18:34 a 20:35 AV DO ESTADO De 18:42 a 20:03 AV PROF LUIZ IGNACIO ANHAIA MELLO
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=26%2F01%2F2022&enviaBusca=Buscar
 Data 26/01/2022 --> Bairro: Ipiranga; Descrição: De 18:55 a 19:30 R DOIS DE JULHO De 18:58 a 19:40 R ALENCAR DE ARARIPE De 19:05 a 19:45 AV PROF ABRAAO DE MORAIS De 19:13 a 20:05 R SILVA BUENO De 19:15 a 20:04 AV TERESA CRISTINA De 21:54 a 22:02 PC ALTEMAR DUTRA
-
-
 
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=26%2F01%2F2022&enviaBusca=Buscar
 Data 26/01/2022 --> Bairro: Vila Mariana; Descrição: De 19:05 a 19:39 AV PROF ABRAAO DE MORAIS De 19:12 a 19:32 AV PROF ABRAAO DE MORAIS De 19:22 a 19:52 AV RUBEM BERTA
 
-
-
 Link: 
 https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=25%2F01%2F2022&enviaBusca=Buscar
 Data 25/01/2022 --> Bairro: Penha; Descrição: De 15:26 a 15:32 R DR LUIZ AYRES
-
