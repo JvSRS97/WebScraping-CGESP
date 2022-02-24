@@ -50,7 +50,7 @@ public class ScrapingConfiguration {
 			formatarLink(dia.format(calendar.getTime()), mes.format(calendar.getTime()),
 					ano.format(calendar.getTime()));// chamando função para formatar link [função getTime pega a data
 													// gerada]
-			
+			Scrap.search(calendar, link, writer);
 		}
 	}
 
