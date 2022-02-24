@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-import org.jsoup.Jsoup;
+import org.jsoup.Jsoup;//importando biblioteca Jsoup
 import org.jsoup.nodes.Document;//importado ao criar variável "documento"
 import org.jsoup.nodes.Element;//importado ao criar variável "elemento"
 import org.jsoup.select.Elements;

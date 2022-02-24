@@ -3,7 +3,7 @@ package jvreis.webscrapingtest;
 //Obs.: Crtl+espaço ao digitar classe importa automaticamente a biblioteca que a contém
 import java.io.File;//importando biblioteca para trabalhar com entrada e saída de arquivo
 import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;//para escrever arquivo
+import java.io.OutputStreamWriter;//biblioteca para escrever arquivo
 import java.text.SimpleDateFormat;
 import java.util.GregorianCalendar;
 
