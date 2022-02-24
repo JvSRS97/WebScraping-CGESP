@@ -1,0 +1,38 @@
+## By JvReis
+
+Formato da tabela:
+-> [table] -> [thead] -> [tbody] -> [tr] -> [td] -> {div->ul->li}
+
+Site: https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=23%2F02%2F2022&enviaBusca=Buscar
+
+* [table] 
+[class]: tb-pontos-de-alagamentos 
+
+* [tbody] possui 2 [tr]
+* 1º[tr] possui 2 [td] e 2º[tr] possui 1 [td]
+-----------------------------------------
+
+1º tr é o bairro com linha pontilhada
+-> 1º[td] do 1º[tr] é o bairro. 
+[class]: bairro arial-bairros-alag linha-pontilhada
+
+-> 2º[td] do 1º[tr] é a pontuação referente à transitabilidade de veículos. 
+[class]: total-pts arial-bairros-alag
+
+-----------------------------------------
+obs.: No caso dessa tabela, o [td] do 2º[tr] possui 1{div} com 1{ul}, onde 
+a {ul} possui 5{li}.
+Na qual as informações estão na 3ª{li} e na 5ª{li}.
+
+
+
+2º[tr] contem informações como hora de início, hora final e localidade
+-> 1º[td] do 2º[tr] 
+[div class]: ponto-de-alagamento
+
+*informações como hora de início, hora final e localidade-> 3ª{li}
+[li class]: arial-descr-alag col-local
+
+*informações sentido e referência-> 5ª{li}
+[li class]: arial-descr-alag
+ 
