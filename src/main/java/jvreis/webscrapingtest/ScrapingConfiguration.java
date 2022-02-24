@@ -28,7 +28,7 @@ public class ScrapingConfiguration {//obs.: editar caminho do arquivo em caso de
 				arquivo.createNewFile();// criando arquivo
 			}
 			writer = new OutputStreamWriter(new FileOutputStream(arquivo));// para escrever arquivo
-			writer.write("Zona\tBairro\tRua\tHora-Inicial\tHora-Final");// escrevendo cabeçalho no arquivo
+			writer.write("## By JvReis\n");// escrevendo cabeçalho no arquivo
 			writer.flush();// limpar memória do writer
 		} catch (Exception e) {
 			e.printStackTrace();// imprime informações sobre erro, caso ocorra

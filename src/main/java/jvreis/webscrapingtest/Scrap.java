@@ -12,7 +12,7 @@ import org.jsoup.select.Elements;
 //Obs.: Comando Alt+Shift+s -> "Generate Getters and Setters" gera automaticamente as funções 
 //get e set para cada variável
 public class Scrap {// classe que contém os dados HTML
-	static String texto = " ";
+	static String texto = "## By JvReis\n";
 	// função para buscar no site. Cria uma cópia HTML da URL e buscará elementos pela classe dada
 	//imprimirá os dados e retornará uma string texto para escrita em arquivo
 	public static String search(String Dia, String Mes, String Ano, String link) {
@@ -52,13 +52,13 @@ public class Scrap {// classe que contém os dados HTML
 																							// informações como hora de
 																							// início, hora final e
 																							// localidade
-			System.out.println("; Descrição: " + dados_1.text() + "\n\n");// OK! Imprimindo os dados
+			System.out.println("; Descrição: " + dados_1.text()+"\n");// OK! Imprimindo os dados
 			// imprime "De xx:xx a xx:xx Rua A"
 			// caso tenha mais de um alagamento no dia, imprime da seguinte forma:
 			// "De xx:xx a xx:xx Rua A De xx:xx a xx:xx Rua B"
 						
 			//passando dados para string texto que será exportada
-			texto += "\n\nLink: \n"+link+"\nData " + Dia + "/" + Mes + "/" + Ano + " --> "+"Bairro: " + bairro.text()+"; Descrição: " + dados_1.text() + "\n\n";
+			texto += "\nLink: \n"+link+"\nData " + Dia + "/" + Mes + "/" + Ano + " --> "+"Bairro: " + bairro.text()+"; Descrição: " + dados_1.text() + "\n";
 		}
 		return texto;
 	}
